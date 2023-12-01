@@ -1,0 +1,15 @@
+/home/runner/learning-cs/bin/Debug/net6.0/learning-cs
+/home/runner/learning-cs/bin/Debug/net6.0/learning-cs.deps.json
+/home/runner/learning-cs/bin/Debug/net6.0/learning-cs.runtimeconfig.json
+/home/runner/learning-cs/bin/Debug/net6.0/learning-cs.dll
+/home/runner/learning-cs/bin/Debug/net6.0/learning-cs.pdb
+/home/runner/learning-cs/obj/Debug/net6.0/learning-cs.csproj.AssemblyReference.cache
+/home/runner/learning-cs/obj/Debug/net6.0/learning-cs.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/learning-cs/obj/Debug/net6.0/learning-cs.AssemblyInfoInputs.cache
+/home/runner/learning-cs/obj/Debug/net6.0/learning-cs.AssemblyInfo.cs
+/home/runner/learning-cs/obj/Debug/net6.0/learning-cs.csproj.CoreCompileInputs.cache
+/home/runner/learning-cs/obj/Debug/net6.0/learning-cs.dll
+/home/runner/learning-cs/obj/Debug/net6.0/refint/learning-cs.dll
+/home/runner/learning-cs/obj/Debug/net6.0/learning-cs.pdb
+/home/runner/learning-cs/obj/Debug/net6.0/learning-cs.genruntimeconfig.cache
+/home/runner/learning-cs/obj/Debug/net6.0/ref/learning-cs.dll
