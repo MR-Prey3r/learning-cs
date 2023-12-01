@@ -1,6 +1,7 @@
 run = "dotnet run"
 
 hidden = ["bin", "obj"]
+entrypoint = "main.cs"
 
 [env]
 DOTNET_NOLOGO = "1"
